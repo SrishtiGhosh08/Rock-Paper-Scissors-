@@ -13,6 +13,6 @@ The user plays against the computer for 5 rounds and at the end it shows who won
 
 ## How to Run
 1. Install Python on your system.
-2. Download the file `rock_paper_scissors.py`.
+2. Download the file main.py.
 3. Open terminal/command prompt and run:
 
